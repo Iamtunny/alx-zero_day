@@ -1,1 +1,1 @@
-My first readme is ready for update
+My first readme is ready for update today
